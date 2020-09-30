@@ -17,7 +17,7 @@
     ></script>
     <body class="pn-nav-fixed">
     <nav class="pn-topnav navbar navbar-expand navbar-dark">
-      <a class="navbar-brand" href="#"
+      <a class="navbar-brand" href="index.php"
         ><img src="assets/img/pun.png" style="max-width: 70%" alt=""
       /></a>
       <button
