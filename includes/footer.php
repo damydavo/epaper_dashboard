@@ -3,7 +3,7 @@
             <div
               class="d-flex align-items-center justify-content-between small"
             >
-              <div class="text-muted">punchng.com &copy; 1971-2020 The Punch newspaper</div>
+              <div class="text-muted">Copyright &copy; Punchng</div>
               <div>
                 <a style="color: gray" href="#">Privacy Policy</a>
                 &middot;
